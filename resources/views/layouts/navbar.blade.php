@@ -19,6 +19,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/product">Produk Kami</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/category">Kategori Produk</a>
+                </li>
             </ul>
         </div>
     </div>
